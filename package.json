@@ -1,0 +1,13 @@
+{
+  "name": "phonedrop",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Use your iPhone as a remote mic, camera and file sender for your Mac (Apple-only for now).",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
